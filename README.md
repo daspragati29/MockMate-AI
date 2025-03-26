@@ -153,7 +153,7 @@ npm run dev
    - Implemented using LemonSqueezy
    - User will have access to unlimited mock interviews at reasonable price
   
-  ![Project Banner](upgrade.png)
+  ![Project Banner](upgarde.png)
   ![Project Banner](payment.png)
   ![Project Banner](congratulations.png)
 
