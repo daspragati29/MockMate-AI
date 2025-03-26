@@ -149,6 +149,14 @@ npm run dev
   ![Project Banner](feedback-rating.png)
   ![Project Banner](feedback-rating-2.png)
 
+6. Pro Subscription Model
+   - Implemented using LemonSqueezy
+   - User will have access to unlimited mock interviews at reasonable price
+  
+  ![Project Banner](upgrade.png)
+  ![Project Banner](payment.png)
+  ![Project Banner](congratulations.png)
+
 ## 🎥 Demo
 
 [Watch Project Demo Video](link_to_demo_video)
