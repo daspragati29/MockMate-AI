@@ -50,6 +50,9 @@ A cutting-edge AI-powered mock interview platform designed to revolutionize inte
 ### Authentication
 - Clerk Authentication
 
+### Payment Gateway
+- Lemon Squeezy
+
 ### Deployment
 - Vercel
 
@@ -75,7 +78,7 @@ A cutting-edge AI-powered mock interview platform designed to revolutionize inte
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ai-mock-interview.git
+git clone https://github.com/your-username/MockMate-AI.git
 ```
 
 2. Install dependencies
@@ -89,8 +92,11 @@ npm install
 # .env file
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_DRIZZLE_DB_URL=
 NEXT_PUBLIC_GEMINI_API_KEY=
-DATABASE_URL=
+NEXT_PUBLIC_INTERVIEW_QUESTION_COUNT=5
 ```
 
 4. Run the development server
@@ -182,14 +188,20 @@ This project is licensed under the MIT License.
 
 - Gemini AI
 - Clerk Authentication
+- Lemon Squeezy Payment Gateway
 - Next.js Community
 - Tailwind CSS
 - Open-source contributors
 
 ## 📞 Contact
 
-Aditya Srivastava
-- LinkedIn: [Profile Link](https://www.linkedin.com/in/aditya-srivastava-12476524a/)
-- Email: sriaditya16@gmail.com
-- Portfolio: [My Portfolio Website](https://adi1816.github.io/AdiInYourHeart/)
+Anindya Dolui
+- LinkedIn: [Profile Link](https://www.linkedin.com/in/anindyadolui/)
+- Email: aninxya07@gmail.com
+- Portfolio: [My Portfolio Website](https://anindya-dolui.framer.website/)
+
+Pragati Das
+- LinkedIn: [Profile Link](https://www.linkedin.com/in/pragati-das-746270241/)
+- Email: daspragati2910@gmail.com
+- Portfolio: [My Portfolio Website](https://pragati-das.framer.website/)
 ---
