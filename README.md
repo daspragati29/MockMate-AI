@@ -1,4 +1,5 @@
-# 🚀 AI Mock Interview Platform
+# MockMate-AI 🚀
+## AI Mock Interview Platform
 
 ## 🌟 Project Overview
 
