@@ -6,6 +6,10 @@ A cutting-edge AI-powered mock interview platform designed to revolutionize inte
 
 ![Project Banner](Banner.png)
 
+<p align="center">
+  <a href="https://mock-mate-ai-psi.vercel.app/">Demo app</a>
+</p>
+
 ## 🔥 Key Features
 
 ### 🤖 AI-Powered Interview Generation
