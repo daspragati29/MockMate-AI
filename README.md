@@ -68,7 +68,9 @@ A cutting-edge AI-powered mock interview platform designed to revolutionize inte
 - Smooth, interactive animations
 - Accessibility-focused components
 
+## Flow Chart
 ![Project Banner](flowchart.png)
+## System Architecture (UML Class Diagram)
 ![Project Banner](uml.png)
 
 ## 🚀 Getting Started
