@@ -68,7 +68,8 @@ A cutting-edge AI-powered mock interview platform designed to revolutionize inte
 - Smooth, interactive animations
 - Accessibility-focused components
 
-![Project Banner](ai-mock-excalidraw.png)
+![Project Banner](flowchart.png)
+![Project Banner](uml.png)
 
 ## 🚀 Getting Started
 
