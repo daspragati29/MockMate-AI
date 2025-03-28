@@ -90,7 +90,7 @@ git clone https://github.com/your-username/MockMate-AI.git
 
 2. Install dependencies
 ```bash
-cd ai-mock-interview
+cd mockmate-ai
 npm install
 ```
 
